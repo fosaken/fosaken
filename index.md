@@ -21,7 +21,7 @@
             box-sizing: border-box;
             width: 11.1%;
         }
-        .btn {
+        .button {
             display: inline-block;
             width: 80px;
             height: 40px;
@@ -41,19 +41,19 @@
         <div class="item"></div>
         <div class="item"></div>
         <div class="item">
-            <div class="btn">
+            <div class="button">
                 Home
             </div>
         </div>
         <div class="item"></div>
         <div class="item">
-            <div class="btn">
+            <div class="button">
                 Home
             </div>
         </div>
         <div class="item"></div>
         <div class="item">
-            <div class="btn">
+            <div class="button">
                 Home
             </div>
         </div>
